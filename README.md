@@ -31,7 +31,7 @@
   - Email: darsh.thakkar@rutgers.edu
   - Phone: +16098661633
 
-### I'll leave the rest to Github. If you are looking for my codes, Scroll down! :point_down:
+### I'll leave the rest to Github. If you are looking for my codes, scroll down! :point_down:
 
 <!--
 **darshth/darshth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
