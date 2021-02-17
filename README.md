@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Darsh Thakkar!
-
+                           (he/him/his)
 ### :point_left: And this is kinda how I look on my best days (You think this was cheeky? Then you should see me code!)
 
 [This will lead you](https://www.darshth.com) to my website if you want to know more about me!
