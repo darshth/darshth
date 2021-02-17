@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Darsh Thakkar!
-                           (he/him/his)
+
 ### :point_left: And this is kinda how I look on my best days (You think this was cheeky? Then you should see me code!)
 
 [This will lead you](https://www.darshth.com) to my website if you want to know more about me!
@@ -13,6 +13,10 @@
   - Data Science Co-op @Merck & Co. Inc. (September 2020 - December 2020)
   - Data Scientist G-RA @Rutgers University. (January 2020 - April 2020)
   - Data Scientist(Business Analysis) and Strategist @Sales Corner Baroda. (May 2018 - August 2019)
+
+- :mega: Here's a little glimpse of my projects you won't find on Github!
+  - United Nations Migrants' Analysis:
+  <img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" /> 
 
 <!--
 **darshth/darshth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
