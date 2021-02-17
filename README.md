@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a project called ['The Code Vault'](https://www.darshth.com/the-code-vault) and my mission is to make Big Data Tools accessible to everyone. I think if we can give the power of Big Data to people who understand the Business Processes thoroughly, but don't have a formal coding background, we can benefit an organization immensely!
 
-- ⚡ Fun fact: When I am not coding, I do poetry. [Here's a Narnia :door: :snowflake: Door](https://www.theuncannypoet.wordpress.com). 
+- ⚡ Fun fact: When I am not coding, I do poetry. [Here's a Narnia :door: :snowflake: door](https://www.theuncannypoet.wordpress.com) to my Wordpress blog! 
 
 - 👯 I love teaching and if you'd like to learn a little Machine Learning, Python, Data Science (Well, as much I know!), feel free to reach out to me and I'd be happy to help.
 - Here's how my Professional Experiences stack up:
