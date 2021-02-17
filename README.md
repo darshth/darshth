@@ -15,6 +15,10 @@
   - Data Scientist G-RA @Rutgers University. (January 2020 - April 2020)
   - Data Scientist(Business Analysis) and Strategist @Sales Corner Baroda. (May 2018 - August 2019)
 
+- :mortar_board: And here's how my Education Experiences stack up:
+  - Master of Information Technology and Anlytics, Rutgers Business School (Business and Data Science Track) (2019-2020)
+  - Bachelor of Engineering, Gujarat Technological University (2014-2018)
+
 - :mega: Here's a little glimpse of my projects you won't find on Github!
 
   - United Nations Migrants' Analysis [(Link)](http://cimicapp.rutgers.edu/darsh/UN/) Aimed at solving the problems of ~1M Migrants! : 
