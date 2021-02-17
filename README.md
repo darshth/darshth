@@ -12,7 +12,7 @@
 
 - :necktie: Here's how my Professional Experiences stack up:
   - Data Science Co-op Intern @Merck & Co. Inc. (September 2020 - December 2020)
-  - Data Scientist G-RA @Rutgers University. (January 2020 - April 2020)
+  - GRA Data Scientist @Rutgers University. (January 2020 - April 2020)
   - Data Scientist(Business Analysis) and Strategist @Sales Corner Baroda. (May 2018 - August 2019)
 
 - :mortar_board: And here's how my Education Experiences stack up:
@@ -26,6 +26,13 @@
     
   - India COVID-19 Tracker [(Link)](https://public.tableau.com/profile/darsh.thakkar#!/vizhome/IndiaAnalysisPrototype/State-wiseDailyData) Real-time data for the COVID-19 cases in India! :
     <img src="https://github.com/darshth/darshth/blob/main/Screen%20Shot%202021-02-17%20at%202.32.21%20PM.png" width="800" height="600" />
+
+- 📫 Here's my contact details if you are looking to grab a coffee or looking to hire me:
+  - Email: darsh.thakkar@rutgers.edu
+  - Phone: +16098661633
+
+### I'll leave the rest to Github. If you are looking for my codes, Scroll down! :point_down:
+
 <!--
 **darshth/darshth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
