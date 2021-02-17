@@ -2,6 +2,8 @@
 
 ### :point_left: And this is kinda how I look on my best days.(If you think that was cheeky, you should see me code!)
 
+- 🔭 I’m currently working on a project called 'The Code Vault' and my mission is to make Big Data Tools accessible to everyone.
+
 <!--
 **darshth/darshth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
