@@ -2,7 +2,7 @@
 
 ### :point_left: And this is kinda how I look on my best days.(If you think that was cheeky, you should see me code!)
 
-[This will lead you](https://www.theuncannypoet.wordpress.com) to my website if you want to know more about me!
+[This will lead you](https://www.darshth.com) to my website if you want to know more about me!
 
 - 🔭 I’m currently working on a project called ['The Code Vault'](https://www.darshth.com/the-code-vault) and my mission is to make Big Data Tools accessible to everyone. I think if we can give the power of Big Data to people who understand the Business Processes thoroughly, but don't have a formal coding background, we can benefit an organization immensely!
 - ⚡ Fun fact: When I am not coding, I do poetry. You can have a look at my work on [Wordpress Blog](https://www.theuncannypoet.wordpress.com). 
