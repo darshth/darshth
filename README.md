@@ -15,8 +15,8 @@
   - Data Scientist(Business Analysis) and Strategist @Sales Corner Baroda. (May 2018 - August 2019)
 
 - :mega: Here's a little glimpse of my projects you won't find on Github!
-  - United Nations Migrants' Analysis:
-  <img src="https://github.com/darshth/darshth/blob/main/Screen%20Shot%202020-08-30%20at%2011.53.16%20AM.png" width="800" height="400" /> 
+  - United Nations Migrants' Analysis [Link](http://cimicapp.rutgers.edu/darsh/UN/):
+    <img src="https://github.com/darshth/darshth/blob/main/Screen%20Shot%202020-08-30%20at%2011.53.16%20AM.png" width="800" height="400" /> 
 
 <!--
 **darshth/darshth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
