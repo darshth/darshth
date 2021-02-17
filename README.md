@@ -1,5 +1,9 @@
 ### Hi there 👋 My name is Darsh Thakkar!
 
+<p align="center">
+<img src="https://github.com/darshth/The-Code-Vault/blob/main/AutoCleaner/images/TCV_final.png">
+  </p>
+
 <!--
 **darshth/darshth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
