@@ -12,7 +12,7 @@
 - Here's how my Professional Experiences stack up:
   - Data Science Co-op @Merck & Co. Inc. (September 2020 - December 2020)
   - G-RA @Rutgers University. (January 2020 - April 2020)
-  - Data Scientist(Business Analysis) @Sales Corner Baroda. (May 2018 - August 2019)
+  - Data Scientist(Business Analysis) and Strategist @Sales Corner Baroda. (May 2018 - August 2019)
 
 <!--
 **darshth/darshth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
