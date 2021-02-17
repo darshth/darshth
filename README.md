@@ -11,7 +11,7 @@
 - 👯 I love teaching and if you'd like to learn a little Machine Learning, Python, Data Science (Well, as much I know!), feel free to reach out to me and I'd be happy to help.
 - Here's how my Professional Experiences stack up:
   - Data Science Co-op @Merck & Co. Inc. (September 2020 - December 2020)
-  - G-RA @Rutgers University. (January 2020 - April 2020)
+  - Data Scientist G-RA @Rutgers University. (January 2020 - April 2020)
   - Data Scientist(Business Analysis) and Strategist @Sales Corner Baroda. (May 2018 - August 2019)
 
 <!--
