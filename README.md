@@ -9,18 +9,19 @@
 - ⚡ Fun fact: When I am not coding, I do poetry. [Here's a Narnia :door: :snowflake: door](https://www.darshth.com/interests) to my world outside of coding! 
 
 - 👯 I love teaching and if you'd like to learn a little Machine Learning, Python, Data Science (Well, as much I know!), feel free to reach out to me and I'd be happy to help.
-- Here's how my Professional Experiences stack up:
-  - Data Science Co-op @Merck & Co. Inc. (September 2020 - December 2020)
+
+- :necktie: Here's how my Professional Experiences stack up:
+  - Data Science Co-op Intern @Merck & Co. Inc. (September 2020 - December 2020)
   - Data Scientist G-RA @Rutgers University. (January 2020 - April 2020)
   - Data Scientist(Business Analysis) and Strategist @Sales Corner Baroda. (May 2018 - August 2019)
 
 - :mega: Here's a little glimpse of my projects you won't find on Github!
 
   - United Nations Migrants' Analysis [(Link)](http://cimicapp.rutgers.edu/darsh/UN/) Aimed at solving the problems of ~1M Migrants! : 
-    <img src="https://github.com/darshth/darshth/blob/main/Screen%20Shot%202021-02-17%20at%202.32.02%20PM.png" width="800" height="400" /> 
+    <img src="https://github.com/darshth/darshth/blob/main/Screen%20Shot%202021-02-17%20at%202.32.02%20PM.png" width="800" height="600" /> 
     
   - India COVID-19 Tracker [(Link)](https://public.tableau.com/profile/darsh.thakkar#!/vizhome/IndiaAnalysisPrototype/State-wiseDailyData) Real-time data for the COVID-19 cases in India! :
-    <img src="https://github.com/darshth/darshth/blob/main/Screen%20Shot%202021-02-17%20at%202.32.21%20PM.png" width="800" height="400" />
+    <img src="https://github.com/darshth/darshth/blob/main/Screen%20Shot%202021-02-17%20at%202.32.21%20PM.png" width="800" height="600" />
 <!--
 **darshth/darshth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
