@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Darsh Thakkar!
 
-### :point_left: And this is kinda how I look on my best days (If you think this was cheeky, you should see me code!)
+### :point_left: And this is kinda how I look on my best days (You think this was cheeky? The you should definitely see me code!)
 
 [This will lead you](https://www.darshth.com) to my website if you want to know more about me!
 
