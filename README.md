@@ -13,7 +13,8 @@
 - :necktie: Here's how my Professional Experiences stack up:
   - Data Science Co-op Intern @Merck & Co. Inc. (September 2020 - December 2020)
   - GRA Data Scientist @Rutgers University. (January 2020 - April 2020)
-  - Data Scientist(Business Analysis) and Strategist @Sales Corner Baroda. (May 2018 - August 2019)
+  - Product Manager @Sales Corner. (May 2018 - August 2019)
+  - Marketing Analyst Intern @Sales Corner. (February 2018 - May 2018)
 
 - :mortar_board: And here's how my Education Experiences stack up:
   - Master of Information Technology and Anlytics, Rutgers Business School (Business and Data Science Track) (2019-2020)
