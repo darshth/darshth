@@ -34,6 +34,8 @@
 
 ### I'll leave the rest to Github. If you are looking for my codes, scroll down! :point_down:
 
+![](https://komarev.com/ghpvc/?username=darshth&color=blue)
+
 <!--
 **darshth/darshth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
