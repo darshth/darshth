@@ -11,9 +11,11 @@
 - 👯 I love teaching and if you'd like to learn a little Machine Learning, Python, Data Science (Well, as much I know!), feel free to reach out to me and I'd be happy to help.
 
 - :necktie: Here's how my Professional Experiences stack up:
-  - Machine Learning Engineer @Merck & Co. Inc. (March 2021 - Present)
+  - Product Manager @Softheon Inc. (July 2021 - Present)
+  - Product Manager @KnowLess (April 2021 - Present)
+  - Product Manager, Machine Learning @Merck & Co. Inc. (March 2021 - July 2021)
   - Data Science Co-op Intern @Merck & Co. Inc. (September 2020 - December 2020)
-  - GRA Data Scientist @Rutgers University. (January 2020 - April 2020)
+  - Graduate Research Associate @Rutgers University. (January 2020 - April 2020)
   - Product Manager @Sales Corner. (May 2018 - August 2019)
   - Marketing Analyst Intern @Sales Corner. (February 2018 - May 2018)
 
